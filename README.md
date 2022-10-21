@@ -13,7 +13,7 @@ My name is Hui Beom Kim. I am a full stack developer from South Korea.
 
 - 🌱 I’m currently learning Docker, AWS and Nuxt 3
 - 🎯 To add on, I'm currently interested in learning DevOps
-- 🎸 In my free time, I mostly play guitar
+- 🎸 In my free time, I mostly play guitar, play with my dog and read Webtoons
 
 # Languages & Frameworks
 ### Mostly Using:
