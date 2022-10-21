@@ -8,13 +8,12 @@
   </a>
 </div>
 
-
-
 # About Me
 My name is Hui Beom Kim. I am a full stack developer from South Korea.
 
-- 🌱 I’m currently learning Docker and AWS
-- 🎸 In my free time, I mostly play acoustic guitar
+- 🌱 I’m currently learning Docker, AWS and Nuxt 3
+- 🎯 To add on, I'm currently interested in learning DevOps
+- 🎸 In my free time, I mostly play guitar
 
 # Languages & Frameworks
 ### Mostly Using:
