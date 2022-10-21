@@ -70,6 +70,8 @@ My name is Hui Beom Kim. I am a full stack developer from South Korea.
       <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" height="48" alt="oracle" />
       <br>Oracle DB
     </td>
+  </tr>
+  <tr>
     <td align="center" width="100">
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="48" alt="postgresql" />
       <br>PostgreSql
