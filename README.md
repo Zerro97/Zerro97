@@ -61,10 +61,6 @@ My name is Hui Beom Kim. I am a full stack developer from South Korea.
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="48" alt="spring" />
       <br>Spring
     </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="48" height="48" alt="typescript" />
-      <br>TypeScript
-    </td>
     <td align="center" width="100">
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="48" alt="mysql" />
       <br>MySql
@@ -82,6 +78,10 @@ My name is Hui Beom Kim. I am a full stack developer from South Korea.
     <td align="center" width="100">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="48" alt="python" />
       <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="48" height="48" alt="typescript" />
+      <br>TypeScript
     </td>
     <td align="center" width="100">
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" height="48" alt="svelte" />
