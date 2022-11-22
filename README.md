@@ -88,26 +88,26 @@ My name is Hui Beom Kim. I am a full stack developer from South Korea.
       <br>Svelte
     </td>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" height="48" alt="postgresql" />
+      <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" height="48" alt="nuxt" />
       <br>Nuxt
     </td>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" height="48" alt="postgresql" />
+      <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" height="48" alt="gatsby" />
       <br>Gatsby
     </td>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" height="48" alt="postgresql" />
+      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" height="48" alt="graphql" />
       <br>GraphQL
     </td>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" height="48" alt="postgresql" />
+      <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" height="48" alt=".net" />
       <br>.NET Framework
     </td>
     
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" height="48" alt="postgresql" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" height="48" alt="three.js" />
       <br>Three.js
     </td>
     <td align="center" width="100">
@@ -115,15 +115,15 @@ My name is Hui Beom Kim. I am a full stack developer from South Korea.
       <br>PostgreSql
     </td>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="48" alt="postgresql" />
+      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="48" alt="aws" />
       <br>AWS
     </td>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="48" alt="postgresql" />
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="48" alt="docker" />
       <br>Docker
     </td>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="48" alt="postgresql" />
+      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="48" alt="github-actions" />
       <br>Github Actions
     </td>
     <td align="center" width="100">
@@ -131,8 +131,8 @@ My name is Hui Beom Kim. I am a full stack developer from South Korea.
       <br>Unity
     </td>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" height="48" alt="unity" />
-      <br>Unity
+      <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" height="48" alt="angular" />
+      <br>Angular
     </td>
   </tr>
 </table>
