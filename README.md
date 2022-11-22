@@ -130,5 +130,9 @@ My name is Hui Beom Kim. I am a full stack developer from South Korea.
       <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="48" alt="unity" />
       <br>Unity
     </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" height="48" alt="unity" />
+      <br>Unity
+    </td>
   </tr>
 </table>
