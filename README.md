@@ -112,8 +112,8 @@ My name is Hui Beom Kim. I am a full stack developer from South Korea.
       <br>Docker
     </td>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="48" alt="postgresql" />
-      <br>Jenkins
+      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="48" alt="postgresql" />
+      <br>Github Actions
     </td>
     <td align="center" width="100">
       <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="48" alt="unity" />
