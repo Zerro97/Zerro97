@@ -4,6 +4,8 @@ My name is Hui Beom Kim. I am a full stack developer from South Korea.
 - 🌱 I’m currently experimenting with Next 13, React Query and Supabase
 - 🎸 In my free time, I mostly play guitar, play with my dog and read Webtoons
 
+You can find more about me at my [blog](http://khuibeom.com/)
+
 ## Languages & Frameworks
 ### 🥇 Mostly Using:
 <p float="left">
@@ -54,6 +56,8 @@ My name is Hui Beom Kim. I am a full stack developer from South Korea.
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" height="30" alt="three.js" />
   &nbsp;
   <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" height="32" alt=".net" />
+  &nbsp;
+  <img src="https://api.iconify.design/logos:supabase-icon.svg" height="30" alt="supabase" />
   &nbsp;
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="30" alt="postgresql" />
   &nbsp;
