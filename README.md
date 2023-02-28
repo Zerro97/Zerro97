@@ -70,4 +70,8 @@ You can find more about me at my [blog](http://khuibeom.com/)
   <img src="https://api.iconify.design/skill-icons:unity-dark.svg" height="32" alt="unity" />
   &nbsp;
   <img src="https://api.iconify.design/skill-icons:python-dark.svg" height="32" alt="python" />
+  &nbsp;
+  <img src="https://api.iconify.design/skill-icons:c.svg" height="32" alt="c" />
+  &nbsp;
+  <img src="https://api.iconify.design/skill-icons:tauri-dark.svg" height="32" alt="tauri" />
 </p>
