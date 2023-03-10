@@ -1,5 +1,5 @@
 ## About Me
-My name is Hui Beom Kim. I am a full stack developer from South Korea.
+My name is Hui Beom Kim. I am a front end developer from South Korea.
 
 - 🌱 I’m currently experimenting with Next 13, React Query and Supabase
 - 🎸 In my free time, I mostly play guitar, play with my dog and read Webtoons
