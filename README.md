@@ -1,9 +1,6 @@
 ## About Me
 My name is Hui Beom Kim. I am a fullstack developer from South Korea.
 
-- 🌱 I'm currently preparing for the AWS certified developer associate exam
-- 🎸 In my free time, I mostly play guitar, play with my dog and read Webtoons
-
 You can find more about me at my [blog](http://khuibeom.com/)
 
 ## Languages & Frameworks
